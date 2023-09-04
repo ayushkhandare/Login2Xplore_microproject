@@ -1,1 +1,6 @@
 ![Screenshot (3)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/aeda7d7d-aa67-4df5-b87e-6a78fefefb01)
+![Screenshot (4)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/b8cf8e4e-a83a-4605-8141-ea679100de22)
+![Screenshot (5)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/e245a66f-c0ce-4cad-bef7-a76446f1015d)
+![Screenshot (6)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/c4ad09b1-4516-4a41-8a3b-a042497dd0d4)
+![Screenshot (7)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/6fd3fa42-e3c5-4ba2-ae26-30302e822f1b)
+![Screenshot (8)](https://github.com/ayushkhandare/Login2Xplore_microproject/assets/108357023/0185d778-552b-415b-a442-767667754ee3)
