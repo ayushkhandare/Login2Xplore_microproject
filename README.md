@@ -1,6 +1,6 @@
-#Student Enrollment Form
+**Student Enrollment Form**
 
-#About JSONPowerDB:
+**About JSONPowerDB:**
 JSONPowerDB (JPDB) is a NoSQL, high-performance, and schema-less database that comes with a variety of features and benefits. Here are some of the key advantages of using JSONPowerDB:
 
 1. **Schema-less Structure**:
